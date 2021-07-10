@@ -1,0 +1,14 @@
+{
+  "name": "practice-exercise-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zfchung/practice-exercise-1.git",
+  "author": "ZF Chung (Zack) <zfchung1@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
