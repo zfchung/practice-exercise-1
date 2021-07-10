@@ -11,13 +11,15 @@
     "format": "yarn prettier --write ./src"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "prettier": "^2.3.2",
     "typescript": "^4.3.5"
   },
   "devDependencies": {
     "@types/jest": "^26.0.24",
     "jest": "^27.0.6",
-    "ts-jest": "^27.0.3"
+    "ts-jest": "^27.0.3",
+    "ts-node": "^10.1.0"
   },
   "jest": {
     "preset": "ts-jest",
